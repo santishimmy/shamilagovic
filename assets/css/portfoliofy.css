@@ -1,7 +1,7 @@
 
 
 .mobile {
-    background-image: url("/assets/media/pictures/iphone-optimised.png");
+    background-image: url("../media/pictures/iphone-optimised.png");
     background-repeat: no-repeat;
     background-size: contain;
     width: 325px;
@@ -15,7 +15,7 @@
 }
 
 .laptop {
-    background-image: url("/assets/media/pictures/laptop-screen-optimised.png");
+    background-image: url("../media/pictures/laptop-screen-optimised.png");
     background-repeat: no-repeat;
     background-size: contain;
     width: 650px;
@@ -29,7 +29,7 @@
 }
 
 .desktop {
-    background-image: url("/assets/media/pictures/large-screen-optimised.png");
+    background-image: url("../media/pictures/large-screen-optimised.png");
     background-repeat: no-repeat;
     background-size: contain;
     width: 800px;

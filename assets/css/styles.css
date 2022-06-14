@@ -44,12 +44,12 @@
 
 @font-face {
     font-family: PoppinsSemiBold;
-    src: url(/assets/fonts/poppins/Poppins-SemiBold.ttf);
+    src: url('../fonts/poppins/Poppins-SemiBold.ttf');
 }
 
 @font-face {
     font-family: PoppinsLight;
-    src: url(/assets/fonts/poppins/Poppins-Light.ttf);
+    src: url('../fonts/poppins/Poppins-Light.ttf');
 }
 
 
@@ -287,7 +287,7 @@ body {
     height: 350px;
     width: 350px;
     border-radius: 50%;
-    background-image: url("/assets/media/pictures/portrait-image.png");
+    background-image: url("../media/pictures/portrait-image.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

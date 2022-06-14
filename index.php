@@ -14,9 +14,8 @@
         </script>
 
         <!-- Head Meta Tags -->
-        <title>Shamil Agovic - Webdesigner & front-end developer</title>
-        <meta name="description" content="I'm Shamil Agovic, a developer based in the Netherlands. I've always had an interest in coding & programming and I had learned my first lines of code by practice, when I decided to enlarge my knowledge by taking courses and learning the complete syntax of the languages I used.">
-        <meta name="keywords" content="shamil agovic, webdeveloper, webdesigner, front-end developer, webdesign, webdevelopment, freelance, hilversum">
+        <title>Front-end Developer & Online Marketeer | Shamil Agovic</title>
+        <meta name="description" content="Hi I'm a front-end developer and digital expert. I ensure impressive results with online marketing and top-tier quality websites. I can assist with Branding, Webdesign & Web development and Online Marketing. With a better online presence and improved UX & SEO I guarantee more client revenue for your firm.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Cache-control" content="public">
         <meta charset="utf-8">
@@ -24,10 +23,10 @@
         <link rel="canonical" href="https://shamilagovic.nl">
 
         <!-- Favicon Tags -->
-        <link rel="apple-touch-icon" sizes="180x180" href="/assets/media/favicon/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="/assets/media/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="/assets/media/favicon/favicon-16x16.png">
-        <link rel="manifest" href="/assets/media/favicon/site.webmanifest">
+        <link rel="apple-touch-icon" sizes="180x180" href="assets/media/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="assets/media/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="assets/media/favicon/favicon-16x16.png">
+        <link rel="manifest" href="assets/media/favicon/site.webmanifest">
 
         <!-- Link CDN's -->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
@@ -36,16 +35,16 @@
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 
         <!-- Link CSS -->
-        <link rel="stylesheet" href="/assets/css/styles.css">
-        <link rel="stylesheet" href="/assets/css/custom-cursor.css">
-        <link rel="stylesheet" href="/assets/css/iphone-mockup.css">
-        <link rel="stylesheet" href="/assets/css/custom-skill-diagrams.css">
-        <link rel="stylesheet" href="/assets/css/portfoliofy.css">
+        <link rel="stylesheet" href="assets/css/styles.css">
+        <link rel="stylesheet" href="assets/css/custom-cursor.css">
+        <link rel="stylesheet" href="assets/css/iphone-mockup.css">
+        <link rel="stylesheet" href="assets/css/custom-skill-diagrams.css">
+        <link rel="stylesheet" href="assets/css/portfoliofy.css">
 
         <!-- Link JS -->
-        <script src="/assets/js/main.js"></script>
-        <script src="/assets/js/custom-cursor.js"></script>
-        <script src="/assets/js/contact-form.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="assets/js/custom-cursor.js"></script>
+        <script src="assets/js/contact-form.js"></script>
 
     </head>
 
@@ -128,7 +127,7 @@
                     </div>
                 </div>
                 
-                <img data-aos="fade-left" data-aos-duration="1200" data-aos-delay="150" alt="shamil" src="/assets/media/pictures/banner-image-2.png"></img>
+                <img data-aos="fade-left" data-aos-duration="1200" data-aos-delay="150" alt="shamil" src="assets/media/pictures/banner-image-2.png"></img>
 
             </div>    
         </div>
@@ -149,7 +148,7 @@
                     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"><div class="section-line-short"></div><h5>Who am I</h5></div>
                     <br><br>
                     <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400"><p>
-                        I'm Shamil Agovic, a developer based in the Netherlands. I've always had an interest in coding & programming and I had learned my first 
+                        I'm Shamil Agovic, a developer based in Hilversum. I've always had an interest in coding & programming and I had learned my first 
                         lines of code by practice, when I decided to enlarge my knowledge by taking courses and learning the complete syntax of the languages I used.
                         <br><br>Since the beginning I've had a deep interest in the front-end, but enjoyed getting mixed in the back-end as well, that's why I started learning 
                         for full-stack. I have acquired plenty of certifications over time which give a good overview of my skills.
@@ -159,10 +158,12 @@
                     <div data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150"><div class="section-line-short"></div><h5>What can I do</h5></div>
                     <br><br>
                     <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400"><p>
-                        I specialise in web-development, and with the use of several languages and frameworks I ensure an eye-catching design, optimised user experience
-                        and maximal accessibility. During my projects I make use of CSS/SCSS, HTML, JavaScript, jQuery, PHP and WordPress.
-                        <br><br>I can assist on the front-end and with server-side actions, accomplishing anything from a pixel-perfectly styled button to flawless form 
-                        validation & completion.
+                        I specialise in web development, webdesign and online marketing. 
+                        I can assist with online lead generation and improving the UX of a website. 
+                        Through SEA and Social Media Marketing I am able to deliver impressive results, 
+                        and with the right SEO customs and online presence I make sure your brand maintains organic lead generation on the long term. 
+                        <br><br>
+                        I can assist on every part of Webdesign, Branding and Online Marketing (in that order) to ensure top-notch quality leads.
                     </p></div>
                     <br><br><br><br><br>
                     <div data-aos="fade-down" data-aos-duration="1000" data-aos-delay="400"><a href="#portfolio" class="primary-btn">My work</a></div>
@@ -310,8 +311,43 @@
 
                     <!-- SLIDE 4 -->
 
+                    <div class="slide">
 
-             
+                        <div class="slide-image">
+
+                            <div class="laptop">
+                                <iframe id="laptop" src="https://vergelijkmijnenergie.nl/">
+                                </iframe>
+                            </div>
+
+                            <div class="desktop">
+                                <iframe id="desktop" src="https://vergelijkmijnenergie.nl/">
+                                </iframe>
+                            </div>
+
+                            <div class="mobile">
+                                <iframe id="mobile" src="https://vergelijkmijnenergie.nl">
+                                </iframe>
+                            </div>
+
+                        </div>
+
+                        <div class="slide-description">
+                            <div class="section-line-short"></div><h5>Vergelijk Mijn Energie - Landing Page</h5>
+                            <br><br><br>
+                            <p>
+                                VergelijkMijnEnergie was used as a landing page to generate leads with with an interest in cheaper energy contracts and solar panels. 
+                                This was done simply by requesting the visitors to fill in a form so that a comparison could be made on their possible savings.
+                                <br><br>
+                                This webpage was part of a bigger project which consisted mostly of lead generation for a sales agency.
+                            </p>
+                            <br><br><br><br>
+                            <a target="blank" href="https://prd15-12-21.shamilagovic.nl/" class="primary-btn">Visit Page</a>
+                        </div>
+
+                    </div>
+
+
                 </div>
                 
                 <div class="slider-prev">
@@ -555,7 +591,7 @@
                                 <h5>HTML</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/HTML.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/HTML.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -563,7 +599,7 @@
                                 <h5>CSS</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/CSS.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/CSS.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -571,7 +607,7 @@
                                 <h5>SASS/SCSS</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/SASS.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/SASS.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -579,7 +615,7 @@
                                 <h5>Color Design</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/ColorDesign.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/ColorDesign.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -587,7 +623,7 @@
                                 <h5>Navigation Design</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/NavigationDesign.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/NavigationDesign.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -595,7 +631,7 @@
                                 <h5>Responsive Design</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/ResponsiveDesign.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/ResponsiveDesign.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -603,7 +639,7 @@
                                 <h5>Bootstrap</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/Bootstrap.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/Bootstrap.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -611,7 +647,7 @@
                                 <h5>JavaScript</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/JavaScript.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/JavaScript.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                     </div>
@@ -628,7 +664,7 @@
                                 <h5>PHP</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/PHP.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/PHP.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -636,7 +672,7 @@
                                 <h5>SQL</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/SQL.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/SQL.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -644,7 +680,7 @@
                                 <h5>Python</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/Python.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/Python.pdf" class="secondary-btn">See Certificate</a>
                         </div>
 
                         <div class="post-container">
@@ -652,7 +688,7 @@
                                 <h5>Software Design</h5>
                             </div>
                             <br>
-                            <a target="blank" href="/assets/files/certificates/SoftwareDesign.pdf" class="secondary-btn">See Certificate</a>
+                            <a target="blank" href="assets/files/certificates/SoftwareDesign.pdf" class="secondary-btn">See Certificate</a>
                         </div>
                     </div>
 
@@ -721,7 +757,7 @@
         <div class="footer">
             <div class="container">
                 <p>© 2021 Shamil Agovic</p><br>
-                <p>Photography: <a>Robin v/d Broek</a> </p>
+                <p>Photography: <a>Robin de Rijk</a> </p>
             </div>
         </div>
 
